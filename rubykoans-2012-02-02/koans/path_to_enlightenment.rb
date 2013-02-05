@@ -7,7 +7,7 @@ require 'about_nil' #ok
 require 'about_objects' #ok
 require 'about_arrays' #ok
 require 'about_array_assignment' #ok
-require 'about_hashes'
+require 'about_hashes' #ok
 require 'about_strings'
 require 'about_symbols'
 require 'about_regular_expressions'

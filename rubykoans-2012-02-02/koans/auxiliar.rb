@@ -2,4 +2,5 @@
 
 array = [:peanut, :butter, :and, :jelly]
 
-p array[2..-1]
+p a = Hash.new
+p a.class
