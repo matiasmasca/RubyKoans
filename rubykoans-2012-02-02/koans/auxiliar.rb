@@ -1,4 +1,5 @@
-p nil.is_a?(Object)
+#Archivo auxiliar para ver resultado de ejecucion...
 
-      nil.some_method_nil_doesnt_know_about
- 
+array = [:peanut, :butter, :and, :jelly]
+
+p array[2..-1]
