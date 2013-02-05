@@ -2,5 +2,5 @@
 
 array = [:peanut, :butter, :and, :jelly]
 
-p a = Hash.new
-p a.class
+value = 123
+p ?a == 97
