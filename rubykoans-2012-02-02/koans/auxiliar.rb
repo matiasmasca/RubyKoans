@@ -3,4 +3,4 @@
 array = [:peanut, :butter, :and, :jelly]
 
 value = 123
-p :cats + :dogs
+p /pattern/.class
